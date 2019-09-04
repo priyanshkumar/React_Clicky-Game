@@ -1,0 +1,46 @@
+.container {
+  width: 60%;
+}
+
+.red {
+  animation: viberate 400ms;
+}
+
+@keyframes viberate {
+  0% {
+    margin-right: 20px;
+    color: white;
+  }
+  10% {
+    margin-left: 20px;
+  }
+  20% {
+    margin-right: -20px;
+  }
+  30% {
+    margin-left: -20px;
+  }
+  40% {
+    margin-right: 20px;
+  }
+  50% {
+    margin-left: 20px;
+    color: red;
+  }
+  60% {
+    margin-right: -20px;
+  }
+  70% {
+    margin-left: -20px;
+  }
+  80% {
+    margin-right: 20px;
+  }
+  90% {
+    margin-left: 20px;
+  }
+  100% {
+    margin-right: 20px;
+    color: white;
+  }
+}

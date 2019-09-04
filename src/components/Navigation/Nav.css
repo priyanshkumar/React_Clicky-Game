@@ -1,0 +1,32 @@
+.navbar {
+  background-color:#100723a6;
+  color: #ffffff;
+  height: 5rem;
+}
+
+.mainheader{
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 2px;
+}
+
+.score{
+  font-family: 'Sanchez', serif;
+}
+.heading{
+  font-family: 'Kaushan Script', cursive;
+}
+.green {
+  animation: greens 2s;
+}
+
+@keyframes greens {
+  0% {
+    color: white;
+  }
+  50% {
+    color: green;
+  }
+  100% {
+    color: white;
+  }
+}
