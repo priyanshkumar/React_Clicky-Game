@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Clicky-Game/static/css/main.d50559e7.chunk.css",
+    "main.js": "/React_Clicky-Game/static/js/main.9377e831.chunk.js",
+    "main.js.map": "/React_Clicky-Game/static/js/main.9377e831.chunk.js.map",
+    "runtime~main.js": "/React_Clicky-Game/static/js/runtime~main.2f60907b.js",
+    "runtime~main.js.map": "/React_Clicky-Game/static/js/runtime~main.2f60907b.js.map",
+    "static/js/2.9918f956.chunk.js": "/React_Clicky-Game/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/React_Clicky-Game/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/React_Clicky-Game/index.html",
+    "precache-manifest.f6c5769959cab8df2bb16f66faea9c86.js": "/React_Clicky-Game/precache-manifest.f6c5769959cab8df2bb16f66faea9c86.js",
+    "service-worker.js": "/React_Clicky-Game/service-worker.js",
+    "static/css/main.d50559e7.chunk.css.map": "/React_Clicky-Game/static/css/main.d50559e7.chunk.css.map",
+    "static/media/header.css": "/React_Clicky-Game/static/media/header-logo.1d92b82a.jpg"
+  }
+}
